@@ -14,9 +14,6 @@ use std::str::from_utf8;
 use crate::{state::{Vote, Voter}};
 use arrayref::{array_ref};
 
-
-
-
 pub struct Processor {}
 
 impl Processor {
