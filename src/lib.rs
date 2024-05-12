@@ -1,4 +1,4 @@
-pub mod processor;
+pfub mod processor;
 pub mod state;
 
 use solana_program::{
