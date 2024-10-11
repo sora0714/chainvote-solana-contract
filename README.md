@@ -13,6 +13,7 @@ Try it out here: http://144.202.72.207:3000/login
 
 # Chainvote Corporate Governance on Solana
 
+
 > DAOs are the new form of Corporate Governance.   Our project is to build an environment of trust, transparency, and accountability on Solana’s fast, secure, and censorship-resistant blockchain platform. Using a Solana smart contract the Corporate Secretary is able to publish an agenda with proposals to bring before the board and voting members.  When publishing the proposal the smart contract will send voting members the SOL voting token(s) to their wallet, automating notification for new items to review for voting. Using the Chainvote Dapp Voting members can see the proposals and use SOL token to cast their vote, (1) SOL token = (1) vote.
 
 # Overview
