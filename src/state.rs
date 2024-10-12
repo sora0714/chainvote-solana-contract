@@ -7,7 +7,6 @@ use solana_program::{
 use byteorder::{ByteOrder, LittleEndian};
 use arrayref::{array_ref, array_mut_ref, mut_array_refs, array_refs};
 
-
 pub const MAX_LEN: usize = 10;
 
 pub struct VoteManager {
